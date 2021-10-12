@@ -1,1 +1,1 @@
-# ImageClassify
+# Chest_Pneumonia
