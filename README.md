@@ -2,9 +2,9 @@
 
 <h1> Objective </h1>
 <img width="400" alt="Screen Shot 2021-10-13 at 8 49 57 PM" src="https://user-images.githubusercontent.com/84426364/137232248-292a5bb3-8d78-4a90-ae77-3cc171b512ad.png">
-<br> Given chest images, we need to classify which chest is normal/or has pneumonia </br>
+<br> Given chest images, we need to classify which chest is normal/or has pneumonia using deep learning approach. </br>
 
-Framework/library used: numpy, pandas, matplot, os, glob, seaborn, tensorflow, sklearn
+<h1> Framework/library used: numpy, pandas, matplot, os, glob, seaborn, tensorflow, sklearn </h1>
 
 To classify chest Pneumonia, we use pretrained model vgg19 in tensorflow and apply transfer learning.
 ![image](https://user-images.githubusercontent.com/84426364/137032322-d5eef10f-de10-4068-8cc1-16fc4fc37806.png)
