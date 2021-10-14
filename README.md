@@ -37,6 +37,12 @@ To classify chest Pneumonia, we use pretrained model vgg19 in tensorflow and app
 Runtime of notebook is about 280-300s, and the downside is that the notebook needs large amount of memory.
 
 
+<h1> Actknowledgement </h1>
+
+DATASET: https://data.mendeley.com/datasets/rscbjbr9sj/2
+CITATION: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+
+
 
 
 
